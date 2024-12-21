@@ -5,5 +5,5 @@
 
 &emsp;👉Aquí os dejo un enlace directo para ver la página en vuestro dispositivo preferido ya que es responsive según el tamaño de la pantalla en la que la veáis:
 
-<a href="https://www.google.es" target="_blank" >google</a>
+<a href="https://cristianvlaicu.github.io/TinDog_Vlaicu/" target="_blank" >TinDog</a>
 </p>
