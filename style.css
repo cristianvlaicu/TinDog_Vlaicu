@@ -29,7 +29,7 @@
 
 .linkedin {
   text-decoration: none; 
-  color: rgb(40, 40, 40);
+  color: rgba(33, 37, 41, 0.75);
   &:hover {
     color: blue;
   }
